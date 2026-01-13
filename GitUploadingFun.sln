@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitUploadingFun", "GitUploadingFun.csproj", "{6395A20D-CB47-4F49-B7EF-B3EA91769493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6395A20D-CB47-4F49-B7EF-B3EA91769493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6395A20D-CB47-4F49-B7EF-B3EA91769493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6395A20D-CB47-4F49-B7EF-B3EA91769493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6395A20D-CB47-4F49-B7EF-B3EA91769493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
